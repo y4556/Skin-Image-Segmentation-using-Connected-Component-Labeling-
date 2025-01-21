@@ -1,4 +1,6 @@
 # Skin Image Segmentation using Connected Component Labeling
+<img src="https://github.com/user-attachments/assets/b7fe9638-62e8-4ea7-8132-a689659663db?raw=true" alt="Skin Tissue" width="300"/> <img src="https://github.com/y4556/Skin-Image-Segmentation-using-Connected-Component-Labeling-/blob/main/1.%5B512x4864%5D.png?raw=true" alt="Tissue Mask" width="300"/>
+
 
 ## Abstract  
 This project implements a method for segmenting tissue types in medical images using **color-based segmentation** and **Connected Component Analysis (CCA)**. The segmentation focuses on accurately identifying layers such as the dermis (DRM), epidermis (EPI), dermal-epidermal junction (DEJ), and keratin (KER). The segmentation accuracy is evaluated using the Dice coefficient.  
